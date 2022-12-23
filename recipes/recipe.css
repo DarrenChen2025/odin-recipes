@@ -1,0 +1,19 @@
+.cook
+{
+    background-color: aqua;
+    border-radius: 100000px;
+}
+
+img
+{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.description, h1, .cook
+{
+    text-align: center;
+}
+
